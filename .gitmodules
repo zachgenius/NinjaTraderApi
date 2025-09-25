@@ -1,0 +1,4 @@
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+	commit = c859b25da02955fef659d658b8f324b5cde87be3
